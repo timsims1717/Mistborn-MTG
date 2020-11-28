@@ -1,0 +1,29 @@
+Infiltration at the Ball:
+Tap or untap up to 2 target creatures.
+Infiltrate.
+Scry 3, then draw 3.
+
+Theft of the Century:
+(1,2)Look at the top Y cards of target players library. You may put any number of them on them on the bottom of their library. Return the rest to the top of their library in any order.
+Creatures you control have Ransack 2 until end of turn.
+
+House War:
+(1,2,3)Deal damage equal to the number of lore counters on ~ to target creature. If a creature was not destroyed this way, sacrifice ~.
+Destroy up to Y target creatures.
+
+Overthrow the Nobles:
+Destroy target artifact.
+Target creature you control fights target creature you don't control.
+Target player sacrifices Y permanents.
+
+GW:
+
+
+Allomancy Training:
+Allomancer creatures you control get +1/+1 until end of turn.
+
+
+Rebel Recruitment:
+Tap a Legendary Creature you control.
+If you don't control a Legendary Creature, sacrifice ~.
+Create 6 1/1 white human Skaa rebel creature tokens.
